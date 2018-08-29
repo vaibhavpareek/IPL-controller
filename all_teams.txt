@@ -1,0 +1,10 @@
+TEAMS::                           MATCHES PLAYED     CAPTAIN 
+1.CHENNAI SUPER KINGS             132                Suresh raina
+2.ROYAL CHALLENGERS BANGALORE     119                Virat kohli
+3.MUMBAI INDIANS                  142                Rohit sharma  
+4.DELHI DAREDEVILS                142                Zaheer khan
+5.KOLKATA KNIGHT RIDERS           152                Gautam gambhir
+6.SUNRISERS HYDERABAD             76                 David warner
+7.RAJASTHAN ROYALS                116                Steve smith
+8.KINGS XI PUNJAB                 144                Ravichandran ashwin
+  

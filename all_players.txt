@@ -1,0 +1,189 @@
+NAME OF PLAYER           RETAINED/OFFERED PRICE  COUNTARY   RUNS   MATCHES Batting Wickets  
+1.MS Dhoni                  (retained Rs 15 cr)  INDIA      3591    159     70       -
+2.Suresh Raina              (retained Rs 11 cr)  INDIA      4540    161     100      25
+3.Ravindra Jadeja           (retained Rs 7 cr)   INDIA      1732    138     45       82
+4.Kedar Jadhav              (Rs 7.8 crore)       INDIA      2500    105     80       12
+5.Dwayne Bravo              (Rs 6.4 crore)       OVERSEAS   2602    131     64       78
+6.Karn Sharma               (Rs 5 crore)         INDIA      1545    112     62       25
+7.Shane Watson              (Rs 4 cr)            OVERSEAS   3609    136     58       60    
+8.Shardul Thakur            (RS 2.6 cr)          INDIA      1810    116     78       69
+9.Ambati Rayudu             (Rs 2.2 cr)          INDIA      2402    112     78       4        
+10.Murali Vijay             (Rs 2 cr)            INDIA      2945    115     100      2
+11.Harbhajan Singh          (Rs 2 cr)            INDIA      1652    112     56       72       
+12.Faf Du Plessis           (Rs 1.6 cr)          OVERSEAS   2545    145     25       25       
+13.Mark Wood                (Rs 1.5 cr)          OVERSEAS   1636    102     64       89 
+14.Sam Billings             (Rs 1 cr)            OVERSEAS   1406    105     84       20
+15.Muhammad Imran Tahir     (Rs 1 crore)         OVERSEAS   1732    138     45       82
+16.Deepak Chahar            (Rs 80 lakh)         INDIA      1732    138     45       82
+17.Mitchell Santner         (Rs 50 lakh)         OVERSEAS   1732    138     45       82
+18.Lungisani Ngidi          (Rs 50 lakh)         OVERSEAS   1732    138     45       82
+19.KM Asif                  (Rs 40 lakh)         INDIA      1732    138     45       82
+20.Kshitiz Sharma           (Rs 20 lakh)         INDIA      1732    138     45       82
+21.Monu Singh               (Rs 20 lakh)         INDIA      1732    138     45       82
+22.Jagadeesan Narayan       (Rs 20 lakh)         INDIA      1732    138     45       82
+23.Dhruv Shorey             (Rs 20 lakh)         INDIA      1732    138     45       82
+24.Kanishk Seth             (Rs 20 lakh)         INDIA      1732    138     45       82
+25.Chaitanya Bishnoi        (Rs 20 lakh)         INDIA      1732    138     45       82
+26.Rishabh Pant             (retained Rs 15 cr)  INDIA      1732    138     45       82
+27.Chris Morris             (retained Rs 11 cr)  OVERSEAS   1732    138     45       82
+28.Shreyas Iyer             (retained Rs 7 cr)   INDIA      1732    138     45       82
+29.Glenn Maxwell            (Rs 9 cr)            OVERSEAS   1732    138     45       82
+30.Kagiso Rabada            (Rs 4.2 cr)          OVERSEAS   1732    138     45       82
+31.Amit Mishra              (Rs 4 cr)            INDIA      1732    138     45       82
+32.Vijay Shankar            (Rs 3.2 cr)          INDIA      1732    138     45       82
+33.Shahbaz Nadeem           (Rs 3.2 cr)          OVERSEAS   1732    138     45       82
+34.Rahul Tewatia            (Rs 3 cr)            INDIA      1732    138     45       82
+35.Mohammed Shami           (Rs 3 cr)            INDIA      1732    138     45       82
+37.Gautam Gambhir           (Rs 2.8 cr)          INDIA      1732    138     45       82
+38.Trent Boult              (Rs 2.2 cr)          OVERSEAS
+39.Colin Munro              (Rs 1.9 cr)          OVERSEAS
+40.Jason Roy                (Rs 1.5 cr)          OVERSEAS
+41.Daniel Christian         (Rs 1.5 cr)          OVERSEAS
+42.Naman Ojha               (Rs 1.4 cr)          INDIA
+43.Prithvi Shaw             (Rs 1.2 cr)          INDIA
+44.Gurkeerat Singh          (Rs 75 lakh)         INDIA
+45.Avesh Khan               (Rs 70 lakh)         INDIA
+46.Abhishek Sharma          (Rs 55 lakh)         INDIA
+47.Jayant Yadav             (Rs 50 lakh)         INDIA
+48.Sandeep Lamichhane       (Rs 20 lakh)         OVERSEAS
+49.Sayan Ghosh              (Rs 20 lakh)         INDIA
+50.Harshal Patel            (Rs 20 lakh)         INDIA
+51.Manjot Kalra             (Rs 20 lakh)         INDIA
+52.Rohit Sharma             (retained Rs 15 cr)  INDIA
+53.Hardik Pandya            (retained Rs 11 cr)  INDIA
+54.Jasprit Bumrah           (retained Rs 7 cr)   INDIA
+55.Krunal Pandya            (Rs 8.8 cr)          INDIA
+56.Ishan Kishan             (Rs 6.2 cr)          INDIA
+57.Kieron Pollard           (Rs 5.4 cr)          OVERSEAS
+58.Pat Cummins              (Rs 5.4 cr)          OVERSEAS
+59.Evin Lewis               (Rs 3.8 cr)          OVERSEAS
+60.Surya Kumar Yadav        (Rs 3.2 cr)          INDIA
+61.Mustafizur Rahman        (Rs 2.2 cr)          OVERSEAS
+62.Ben Cutting              (Rs 2.2 cr)          OVERSEAS
+63.Rahul Chahar             (Rs 1.9 cr)          INDIA
+64.Pradeep Sangwan          (Rs 1.5 cr)          INDIA
+65.Jason Behrendorff        (Rs 1.5 cr)          OVERSEAS
+66.Jean-Paul Duminy         (Rs 1 cr)            OVERSEAS
+67.Saurabh Tiwary           (Rs 80 lakh)         INDIA
+68.Tajinder Dhillon         (Rs 55 lakh)         OVERSEAS
+69.Akila Dhananjaya         (Rs 50 lakh)         OVERSEAS
+70.Siddhesh Lad             (Rs 20 lakh)         OVERSEAS
+71.Aditya Tare              (Rs 20 lakh)         INDIA
+72.Mayank Markande          (Rs 20 lakh)         INDIA
+73.Anukul Roy               (Rs 20 lakh)         INDIA
+74.Sharad Lumba             (Rs 20 lakh)         INDIA
+75.Mohsin Khan              (Rs 20 lakh)         INDIA
+76.MD Nidheesh              (Rs 20 lakh)         OVERSEAS
+77.MD Dinesan               (Rs 20 lakh)         OVERSEAS
+78.Axar Patel               (retained 12.5 cr)   INDIA
+79.KL Rahul                 (Rs 11 crore)        INDIA
+80.Ravichandran Ashwin      (Rs 7.6 cr)          INDIA
+81.Andrew Tye               (Rs 7.2 cr)          OVERSEAS
+82.Aaron Finch              (Rs 6.2 cr)          OVERSEAS
+83.Marcus Stoinis           (Rs 6.2 cr)          OVERSEAS
+84.Karun Nair               (Rs 5.6 cr)          OVERSEAS
+85.Mujeeb Zadran            (Rs 4 cr)            OVERSEAS
+86.David Miller             (Rs 3 cr)            OVERSEAS
+87.Ankit Singh Rajpoot      (Rs 3 cr)            INDIA
+88.Mohit Sharma             (Rs 2.4 cr)          INDIA
+89.Barinder Sran            (Rs 2.2 cr)          OVERSEAS
+90.Chris Gayle              (Rs 2 cr)            OVERSEAS
+91.Yuvraj Singh             (Rs 2 cr)            INDIA
+92.Ben Dwarshuis            (Rs 1.4 cr)          OVERSEAS
+93.Mayank Agarwal           (Rs 1 cr)            INDIA
+94.Manoj Tiwary             (Rs 1 cr)            INDIA
+95.Akshdeep Nath            (Rs 1 cr)            INDIA
+96.Mayank Dagar             (Rs 20 lakh)         INDIA 
+97.Manzoor Dar              (Rs 20 lakh)         INDIA
+98.Pradeep Sahu             (Rs 20 lakh)         INDIA
+99.Sunil Narine             (retained Rs 12.5 cr)OVERSEAS
+100.Andre Russell           (retained Rs 8.5 cr) OVERSEAS
+101.Chris Lynn              (Rs 9.6 cr)          OVERSEAS 
+102.Mitchell Starc          (Rs 9.4 cr)          OVERSEAS
+103.Dinesh Karthik          (Rs 7.4 cr)          OVERSEAS
+104.Robin Uthappa           (RS 6.4 cr)          INDIA
+105.Kuldeep Yadav           (Rs 5.8 cr)          INDIA
+106.Piyush Chawla           (Rs 4.2 cr)          INDIA
+107.Nitish Rana             (Rs 3.4 cr)          INDIA
+108.Kamlesh Nagarkoti       (Rs 3.2 cr)          INDIA
+109.Shivam Mavi             (Rs 3 cr)            INDIA
+110.Mitchell Johnson        (Rs 2 cr)            OVERSEAS
+111.Shubman Gill            (Rs 1.8 cr)          OVERSEAS
+112.R Vinay Kumar           (Rs 1 cr)            OVERSEAS
+113.Rinku Singh             (Rs 80 lakh)         OVERSEAS
+114.Cameron Delport         (Rs 30 lakh)         OVERSEAS
+115.Javon Searless          (Rs 30 lakh)         OVERSEAS
+116.Ishank Jaggi            (Rs 20 lakh)         OVERSEAS
+117.Apoorv Wankhade         (Rs 20 lakh)         OVERSEAS
+118.Steve Smith             (retained 12.5 crore)OVERSEAS
+119.Ben Stokes              (Rs 12.5 cr)         OVERSEAS
+120.Jaydev Unadkat          (Rs 11.5 cr)         INDIA
+121.Sanju Samson            (Rs 8 cr)            INDIA
+122.Jofra Archer            (Rs 7.2 cr)          OVERSEAS
+123.Gowtham Krishnappa      (Rs 6.2 cr)          OVERSEAS
+124.Jos Buttler             (Rs 4.4 cr)          OVERSEAS
+125.Ajinkya Rahane          (Rs 4 cr)            OVERSEAS
+126.Darcy Short             (Rs 4 cr)            OVERSEAS
+127.Rahul Tripathi          (Rs 3.4 cr)          INDIA
+128.Dhawal Kulkarni         (Rs 75 lakh)         INDIA
+129.Zahir Khan Pakteen      (Rs 60 lakh)         OVERSEAS
+130.Ben Laughlin            (Rs 50 lakh)         OVERSEAS
+131.Dushmanta Chameera      (Rs 50 lakh)         OVERSEAS
+132.Stuart Binny            (Rs 50 lakh)         INDIA
+133.Aryaman Vikram Birla    (Rs 30 lakh)         INDIA
+134.Anureet Singh Kathuria  (Rs 30 lakh)         INDIA
+135.Prashant Chopra         (Rs 20 lakh)         INDIA
+136.Ankit Sharma            (Rs 20 lakh)         INDIA
+137.Midhun S                (Rs 20 lakh)         OVERSEAS
+138.Shreyas Gopal           (Rs 20 lakh)         INDIA
+139.Jatin Saxena            (Rs 20 lakh)         INDIA
+140.Mahipal Lomror          (Rs 20 lakh)         OVERSEAS
+141.Virat Kohli             (Retained Rs 17 cr)  INDIA
+142.AB de Villiers          (retained Rs 11 cr)  OVERSEAS
+143.Sarfraz Khan            (retained Rs 3 cr)   INDIA
+144.Chris Woakes            (Rs 7.4 cr)          OVERSEAS
+145.Yuzvendra Chahal        (Rs 6 cr)            INDIA
+146.Umesh Yadav             (Rs 4.2 cr)          INDIA
+147.Brendon McCullum        (Rs 3.6 cr)          OVERSEAS
+148.Washington Sundar       (Rs 3.2 cr)          OVERSEAS
+149.Navdeep Saini           (Rs 3 cr)            INDIA
+150.Quinton De Kock         (Rs 2.8 cr)          OVERSEAS
+151.Mohd Siraj              (Rs 2.6 cr)          OVERSEAS
+152.Colin De Grandhomme     (Rs 2.2 cr)          OVERSEAS
+153.Murugan Ashwin          (Rs 2.2 cr)          OVERSEAS
+154.Nathan Coulter-Nile     (Rs 2.2 cr)          OVERSEAS
+155.Parthiv Patel           (Rs 1.7 cr)          INDIA
+156.Moeen Ali               (Rs 1.7 cr)          OVERSEAS
+157.Mandeep Singh           (Rs 1.4 cr)          INDIA
+158.Manan Vohra             (Rs 1.1 cr)          INDIA
+159.Tim Southee             (Rs 1 cr)            OVERSEAS
+160.Pawan Negi              (Rs 1 cr)            INDIA
+161.Kulwant Khejroliya      (Rs 85 lakh)         INDIA
+162.Aniket Choudhary        (Rs 30 lakh)         INDIA
+163.Anirudha Joshi          (Rs 20 lakh)         INDIA
+164.Pavan Deshpande         (Rs 20 lakh)         INDIA
+165.David Warner            (retained 12.5 cr)   OVERSEAS
+166.Bhuvneshwar Kumar       (retained 8.5 cr)    INDIA 
+167.Manish Pandey           (Rs 11 cr)           INDIA
+168.Rashid Khan Arman       (Rs 9 cr)            OVERSEAS
+169.Shikhar Dhawan          (Rs 5.2 cr)          OVERSEAS
+170.Wriddhiman Saha         (Rs 5 cr)            INDIA
+171.Kane Williamson         (Rs 3 cr)            OVERSEAS
+172.Sandeep Sharma          (Rs 3 cr)            INDIA
+173.Shakib Hasan            (Rs 2 crore)         OVERSEAS
+174.Carlos Brathwaite       (Rs 2 crore)         OVERSEAS
+175.Yusuf Pathan            (Rs 1.9 cr)          INDIA
+176.Mohammad Nabi Eisakhil  (Rs 1 cr)            OVERSEAS
+177.Chris Jordan            (Rs 1 cr)            OVERSEAS
+178.Billy Stanlake          (Rs 50 lakh)         OVERSEAS
+179.Siddharth Kaul          (Rs 3.8 crore)       INDIA
+180.Deepak Hooda            (Rs 3.6 cr)          INDIA
+181.Syed Khaleel Ahmed      (Rs 3 cr)            OVERSEAS
+182.Shreevats Goswami       (Rs 1 cr)            INDIA
+183.Basil Thampi            (Rs 95 lakh)         OVERSEAS
+184.T Natarajan             (Rs 40 lakh)         OVERSEAS
+185.Bipul Sharma            (Rs 20 lakh)         INDIA
+186.Mehdi Hasan             (Rs 20 lakh)         OVERSEAS
+187.Ricky Bhui              (Rs 20 lakh)         INDIA
+188.Sachin Baby             (Rs 20 lakh)         INDIA
+189.Tanmay Agarwal          (Rs 20 lakh)         INDIA

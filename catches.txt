@@ -1,0 +1,6 @@
+S.NO       Team           Player_name      Catches 
+1.         rcb            Virat kohli         320                     1/4       *116
+2.         mi             Pollard             316                     0/5        77
+3.         kkr            Rusell              276                     1/1        101
+4.         rcb            Ab devilers         255                     1/2       *106
+5.         csk            R.Jadeja            215                     0/3       *69                 

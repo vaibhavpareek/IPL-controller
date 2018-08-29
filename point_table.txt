@@ -1,0 +1,9 @@
+Teams	                        Play	Won	Loss	Tie	NR	PTS	  NRR
+Sunrisers Hyderabad	        3	3	0	0	0	6	 0.772
+Kolkata Knight Riders          	4	2	2	0	0	4	 0.863
+Kings XI Punjab	                3	2	1	0	0	4	 0.116
+Chennai Superkings	        3	2	1	0	0	4	 0.103
+Rajasthan Royals	        3	2	1	0	0	4	-0.247
+Royal Challengers Bangalore	3	1	2	0	0	2	-0.373
+Delhi Daredevils	        4	1	3	0	0	2	-1.399
+Mumbai Indians          	3	0	3	0	0	0	-0.174

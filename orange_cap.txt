@@ -1,0 +1,6 @@
+S.NO       Team           Player_name           Total runs              100/50     BEST 
+1.         csk            Suresh raina           320                     1/4       *116
+2.         mi             Rohit sharma           316                     0/5        77
+3.         kkr            Robin utthapa          276                     1/1        101
+4.         rcb            Ab devilers            255                     1/2       *106
+5.         csk            Sam billings           215                     0/3       *69                 

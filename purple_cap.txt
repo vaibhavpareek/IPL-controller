@@ -1,0 +1,6 @@
+S.NO       Team           Player_name           Total wickets           BEST 
+1.         csk            Dwayne bravo           11                     19/3      
+2.         srh            bhuvi                  09                     10/2                          
+3.         kkr            trent boult            07                     21/3
+4.         rcb            chahal                 06                     08/2
+5.         csk            imran tahir            05                     12/1                      
