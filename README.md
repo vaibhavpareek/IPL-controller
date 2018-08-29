@@ -1,2 +1,2 @@
 # IPL-controller
-it is a ipl controller which keeps information of all the players with their team names,and you can modify details of any player or team anytime.
+it is a ipl controller in which have 3 interfaces either you can login as admin or as guest user.all previleges are associated with admin and some with user as well.it has main features of adding,modifying,deletion of any object.
