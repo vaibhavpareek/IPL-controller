@@ -1,1 +1,1 @@
-
+This folder contains all the teams name which have participated in the tournament.
