@@ -210,7 +210,7 @@ void orange_cap()
      system("cls");
 		 char ch;
 	fstream orange_cap;
-	orange_cap.open("orange_cap.txt",ios::in|ios::binary);
+	orange_cap.open("details/orange_cap.txt",ios::in|ios::binary);
 	while(orange_cap.eof()==0)
 	{
 	orange_cap.get(ch);
@@ -223,7 +223,7 @@ void purple_cap()
      system("cls");
 		 char ch;
 	fstream purple_cap;
-	purple_cap.open("purple_cap.txt",ios::in|ios::binary);
+	purple_cap.open("details/purple_cap.txt",ios::in|ios::binary);
 	while(purple_cap.eof()==0)
 	{
 	purple_cap.get(ch);
@@ -236,7 +236,7 @@ void catches()
      system("cls");
 		 char ch;
 	fstream catches;
-	catches.open("catches.txt",ios::in|ios::binary);
+	catches.open("details/catches.txt",ios::in|ios::binary);
 	while(catches.eof()==0)
 	{
 	catches.get(ch);
@@ -249,7 +249,7 @@ void all_rounder()
      system("cls");
 		 char ch;
 	fstream allrounder;
-	allrounder.open("all_rounder.txt",ios::in|ios::binary);
+	allrounder.open("lists/all_rounder.txt",ios::in|ios::binary);
 	while(allrounder.eof()==0)
 	{
 	allrounder.get(ch);
