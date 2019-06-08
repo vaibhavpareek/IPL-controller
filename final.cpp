@@ -299,7 +299,7 @@ void User::point_table()
 	system("cls");
 		 char ch;
 	fstream point;
-	point.open("point_table.txt",ios::in|ios::binary);
+	point.open("details/point_table.txt",ios::in|ios::binary);
 	while(point.eof()==0)
 	{
 	point.get(ch);
@@ -331,7 +331,7 @@ void Admin::remove_team()
  if(confirm=='y')
  {
   ifstream any;
-  any.open("counting_team.txt");
+  any.open("counters/counting_team.txt");
   any>>ch;
   ifstream myfile;
   ofstream temp;
@@ -375,7 +375,7 @@ void Admin::remove_player()
  cin>>confirm;
  if(confirm=='y')
 {  ifstream any;
-  any.open("counting_team.txt");
+  any.open("counters/counting_team.txt");
   any>>ch;
   ifstream myfile;
   ofstream temp;
@@ -405,7 +405,7 @@ void Admin::update_player()
 	cout<<"\n\t\t============================================= IPL CRICKET TOURNAMENT CONTROLLER =====================================================";
     player e[80],a;
     ifstream any1;
-	any1.open("counting.txt");
+	any1.open("counters/counting.txt");
 	any1>>ch;
 	any1.close();
 	fstream file1;
@@ -454,7 +454,7 @@ void Admin::update_team()
 	cout<<"\n\t\t============================================= IPL CRICKET TOURNAMENT CONTROLLER =====================================================";
      new_team e[80],a;
     ifstream any1;
-	any1.open("counting_team.txt");
+	any1.open("counters/counting_team.txt");
 	any1>>ch;
 	any1.close();
 	fstream file1;
@@ -504,7 +504,7 @@ void Admin::add_scores()
 	ofstream file;
 	file.open("scoreboard.txt",ios::app|ios::binary);
     ifstream any1;
-	any1.open("countingscore.txt");
+	any1.open("counters/countingscore.txt");
 	any1>>ch;
 	any1.close();
 	e[ch].add_scoreboard();
@@ -512,7 +512,7 @@ void Admin::add_scores()
 	file.seekp(0);
 	file.close();
 	ofstream file1;
-	file1.open("countingscore.txt");
+	file1.open("counters/countingscore.txt");
 	ch++;
 	file1<<ch;
 	file1.close();
@@ -524,7 +524,7 @@ void User::scoreboard()
     int ch,up,i;
     score e[80];
     ifstream any1;
-	any1.open("countingscore.txt");
+	any1.open("counters/countingscore.txt");
 	any1>>ch;
 	any1.close();
 	ifstream file1;
@@ -553,7 +553,7 @@ void User::team_search()
     int ch,up,i;
     new_team e[80];
     ifstream any1;
-	any1.open("counting_team.txt");
+	any1.open("counters/counting_team.txt");
 	any1>>ch;
 	any1.close();
 	ifstream file1;
@@ -649,7 +649,7 @@ void admin_info::showdata()
  char ch,search[80],pwd[80];
     int i,j=0;
     admin_info e[80];
-    	ifstream any1("counter.txt");
+    	ifstream any1("counters/counter.txt");
 	any1>>ch;
 	any1.close();
 		ifstream file1;
@@ -735,7 +735,7 @@ void Admin::add_player()
 	ofstream file;
 	file.open("player_add.txt",ios::app|ios::binary);
     ifstream any1;
-	any1.open("counting.txt");
+	any1.open("counters/counting.txt");
 	any1>>ch;
 	any1.close();
 	e[ch].player_details();
@@ -743,7 +743,7 @@ void Admin::add_player()
 	file.seekp(0);
 	file.close();
 	ofstream file1;
-	file1.open("counting.txt");
+	file1.open("counters/counting.txt");
 	ch++;
 	file1<<ch;
 	file1.close();
@@ -755,7 +755,7 @@ void Admin::add_team()
 	fstream file;
 	file.open("new_team.txt",ios::app|ios::binary);
 	ifstream any;
-	any.open("counting_team.txt");
+	any.open("counters/counting_team.txt");
 	any>>ch;
 	any.close();
 	e[ch].add_new_team();
@@ -764,7 +764,7 @@ void Admin::add_team()
 	file.close();
 	ch++;
 	ofstream any1;
-	any1.open("counting_team.txt");
+	any1.open("counters/counting_team.txt");
 	any1<<ch;
 	any1.close();
 }
@@ -774,7 +774,7 @@ void Admin::new_admin()
 	fstream file;
 	file.open("admin.txt",ios::app|ios::binary);
     ifstream any1;
-	any1.open("counter.txt");
+	any1.open("counters/counter.txt");
 	any1>>ch;
 	any1.close();
 	e[ch].add_new_admin();
@@ -783,7 +783,7 @@ void Admin::new_admin()
 	file.close();
 	ch++;
 	  	ofstream any;
-	  any.open("counter.txt");
+	  any.open("counters/counter.txt");
 	  any<<ch;
 	  any.close();
 }	
@@ -793,7 +793,7 @@ void User::player_info()
     int ch,up,i;
     player e[80];
     ifstream any1;
-	any1.open("counting.txt");
+	any1.open("counters/counting.txt");
 	any1>>ch;
 	any1.close();
 	ifstream file1;
@@ -835,28 +835,28 @@ void User::team_info()
     switch(no)
     {
     	case 1:
-	team.open("csk.txt",ios::in|ios::binary);
+	team.open("teams/csk.txt",ios::in|ios::binary);
 	break;
 	case 2:
-	team.open("rcb.txt",ios::in|ios::binary);
+	team.open("teams/rcb.txt",ios::in|ios::binary);
 	break;
 	case 3:
-	team.open("mi.txt",ios::in|ios::binary);
+	team.open("teams/mi.txt",ios::in|ios::binary);
 	break;
 	case 4: 
-	team.open("dd.txt",ios::in|ios::binary);
+	team.open("teams/dd.txt",ios::in|ios::binary);
 	break;
 	case 5: 
-	team.open("kkr.txt",ios::in|ios::binary);
+	team.open("teams/kkr.txt",ios::in|ios::binary);
 	break;
 	case 6:
-	team.open("srh.txt",ios::in|ios::binary);
+	team.open("teams/srh.txt",ios::in|ios::binary);
 	break;
 	case 7:
-	team.open("rr.txt",ios::in|ios::binary);
+	team.open("teams/rr.txt",ios::in|ios::binary);
 	break;
 	case 8: 
-	team.open("kxip.txt",ios::in|ios::binary);
+	team.open("teams/kxip.txt",ios::in|ios::binary);
 	break;
 	default:goto l1;
      }
@@ -885,7 +885,7 @@ void User::all_teams()
 {
 		 char ch;
 	fstream team;
-	team.open("all_teams.txt",ios::in|ios::binary);
+	team.open("lists/all_teams.txt",ios::in|ios::binary);
 	while(team.eof()==0)
 	{
 	team.get(ch);
@@ -897,7 +897,7 @@ void User::all_players()
 {
 		 char ch;
 	fstream all;
-	all.open("all_players.txt",ios::in|ios::binary);
+	all.open("lists/all_players.txt",ios::in|ios::binary);
 	while(all.eof()==0)
 	{
 	all.get(ch);
@@ -909,7 +909,7 @@ void User::scheduled_match()
 {
 	 char ch;
 	fstream file;
-	file.open("match_schedule.txt",ios::in|ios::binary);
+	file.open("details/match_schedule.txt",ios::in|ios::binary);
 	while(file.eof()==0)
 	{
 	file.get(ch);
